@@ -13,7 +13,7 @@
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="905255b6-d01d-4231-a79b-56283d02568f">
-      <console name="ConnectionMySQL" type="STANDARD" schema="mysql" session="Main"><![CDATA[create]]></console>
+      <console name="ConnectionMySQL" type="STANDARD" schema="mysql" session="Main">create</console>
     </connection>
     <connection id="eae0aef5-e1bd-47cd-b58e-31d89719d39f">
       <console name="Connection" type="STANDARD" schema="mysql" session="Main" />
@@ -28,9 +28,15 @@
   <component name="DBNavigator.Project.DatabaseFileManager">
     <open-files />
   </component>
+  <component name="DBNavigator.Project.ExecutionManager">
+    <retain-sticky-names value="false" />
+  </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />
     <filters />
+  </component>
+  <component name="DBNavigator.Project.ParserDiagnosticsManager">
+    <diagnostics-history />
   </component>
   <component name="DBNavigator.Project.Settings">
     <connections>
